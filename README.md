@@ -29,8 +29,3 @@
 ![OVH](https://img.shields.io/badge/OVH-%23123F6D.svg?style=flat-square&logo=ovh&logoColor=#123F6D)<br>
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino)
-
-### 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=skewnart&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=skewnart&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=skewnart&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
