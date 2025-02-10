@@ -2,6 +2,7 @@
 
 ⌛  Last work : **Grafana Observability Solution Architect** certification ! 🥳<br>
 🛠️ Currently working on **Home automation** : home made cameras, detections, alerting (with some electronic ; Rust / C++ embedded, Raspberry, Mosquitto, Grafana, Rust / Angular for UI)<br>
+🛠️ Also on rewriting the **grep command** in Rust<br>
 🔭 Next work... **Custom AI filesystem**<br>
 🌱 Improving my **Rust** / **Angular** skills<br>
 💬 Want to chat ? Algorithm optimization, .net, Rust world, embedded / electronic 👀 Find me on the internet !
