@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-⌛  Last work : **Grafana Observability Solution Architect** certification ! 🥳<br>
-🛠️ Currently working on **Camera home automation** : home made cameras, detections, alerting (some electronic ; Rust / C++ embedded, Raspberry, Mosquitto, Grafana, Rust / Angular for UI)<br>
+⌛  Last works : **Grafana Observability Solution Architect** certification ! 🥳 / **Camera home automation** (Rust / C++) <br>
+🛠️ Currently working on a **Password Manager project** (Web / desktop / mobile with secured transfers and alerting) to improve my Rust / Svelte / Wasm / Tauri / Grafana skills<br>
 🛠️ Rewriting the **grep command** in Rust<br>
 🔭 Next work... **Custom AI filesystem**<br>
-🌱 Improving my **Rust** / **Angular** skills<br>
+🌱 Improving my **Rust** / **Angular** / **Svelte** skills<br>
 💬 Want to chat ? Algorithm optimization, .net, Rust world, embedded / electronic 👀 Find me on the internet !
 
 ⚡ Reinventing the wheel to learn & optimize it
