@@ -4,6 +4,7 @@
 🛠️ Currently working on a **Password Manager project** (Web / desktop / mobile with secured transfers and alerting) to improve my Rust / Svelte / Wasm / Tauri / Grafana skills<br>
 🛠️ Rewriting the **grep command** in Rust<br>
 🔭 Next work... **Custom AI filesystem**<br>
+🔭 Contribute to **OSS** projects <br>
 🌱 Improving my **Rust** / **Angular** / **Svelte** skills<br>
 💬 Want to chat ? Algorithm optimization, .net, Rust world, embedded / electronic 👀 Find me on the internet !
 
