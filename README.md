@@ -1,11 +1,12 @@
 ## Hi there 👋
 
 ⌛  Last works : **Grafana Observability Solution Architect** certification ! 🥳 / **Camera home automation** (Rust / C++) / **[Bruno](https://github.com/usebruno/bruno) contributions**<br>
-🛠️ Currently working on a **Password Manager project** (Web / desktop / mobile with secured transfers and alerting) to improve my Rust / Svelte / Wasm / Tauri / Grafana skills<br>
+⌛ Kvault : **Password Manager project** (Web / desktop / mobile with secured transfers and alerting) to improve my Rust / Svelte / Wasm / Tauri / Grafana skills<br>
+🛠️ Currently working on a **News app augmented with custom daily AI podcast**, using **Golang** / **Rust Topcoat** (fullstack framework)
 🔭 Next work... **Procedural isometric map generator / game** using Wasm<br>
 🔭 **Custom LFS OS**<br>
 🔭 Contribute to **OSS** projects <br>
-🌱 Improving my **Rust** / **Angular** / **Svelte** skills<br>
+🌱 Improving my **Rust** / **Golang** / **Svelte** skills<br>
 💬 Want to chat ? Algorithm optimization, .net, Rust world, embedded / electronic 👀 Find me on the internet !
 
 ⚡ Reinventing the wheel to learn & optimize it
